@@ -1,0 +1,38 @@
+@media (max-width: 576px) {
+  .banner {
+    height: 66vh;
+    justify-content: center;
+  }
+  .banner h1 p {
+    font-size: 30px;
+  }
+  .banner img {
+    height: auto;
+  }
+  .navbar-nav {
+    background: #060928;
+    border: 1px solid white;
+    border-top-color: transparent;
+    padding-left: 5px;
+  }
+  .part-2 .row .row .col .card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .part-2 .row .row .col .card-text {
+    text-align: center;
+  }
+}
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}
